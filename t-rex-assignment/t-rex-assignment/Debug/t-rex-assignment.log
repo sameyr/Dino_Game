@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\UoG file\C++ practice\t-rex-assignment\t-rex-assignment\Source.cpp(175,1): warning C4305: '=': truncation from 'int' to 'char'
+D:\UoG file\C++ practice\t-rex-assignment\t-rex-assignment\Source.cpp(175,22): warning C4309: '=': truncation of constant value
+  t-rex-assignment.vcxproj -> D:\UoG file\C++ practice\t-rex-assignment\Debug\t-rex-assignment.exe
